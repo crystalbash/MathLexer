@@ -1,0 +1,16 @@
+{
+  "name": "mathlexer",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest",
+    "vitest": "^4.0.8"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "scripts": {
+    "test": "vitest"
+  }
+}
